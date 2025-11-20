@@ -1,0 +1,13 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Links</title><style>
+body{margin:0;font-family:sans-serif;display:flex;justify-content:center;align-items:center;height:100vh;background:#eee}
+.card{text-align:center;padding:20px;border-radius:12px;background:#fff;box-shadow:0 0 10px #0003}
+a{display:block;margin:10px 0;padding:10px;border-radius:8px;background:#f5f5f5;color:#000;text-decoration:none;font-weight:600}
+</style></head>
+<body>
+<div class=card>
+<h2>My Social Profiles</h2>
+<a href="https://youtube.com/@a.d.m.rifdhy.ashari?si=iTvixtGdPwBqqGcp">YouTube</a>
+<a href="https://www.facebook.com/share/16U9C6nbuL/?mibextid=wwXIfr">Facebook</a>
+<a href="https://www.tiktok.com/@rifdhy?_r=1&_t=ZS-91YElJ9RD7A">TikTok</a>
+</div>
+</body></html>
